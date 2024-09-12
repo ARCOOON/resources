@@ -1,2 +1,2 @@
-# resources
+# Resources
 Hosting resources CSS &amp; JavaScript
